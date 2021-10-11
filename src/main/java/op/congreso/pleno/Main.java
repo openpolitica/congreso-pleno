@@ -109,7 +109,7 @@ public class Main {
                             return p;
                         }
                     })
-                    .sorted(Comparator.comparing(Pleno::id))
+                    .sorted(Comparator.comparing(Pleno::id).reversed())
                     .collect(Collectors.toList());
             Files.writeString(Path.of("plenos.json"),  jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(updated));
             System.out.println("RESULT: Changes updated");

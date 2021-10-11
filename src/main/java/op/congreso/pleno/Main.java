@@ -112,6 +112,9 @@ public class Main {
                     .sorted(Comparator.comparing(Pleno::id))
                     .collect(Collectors.toList());
             Files.writeString(Path.of("plenos.json"),  jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(updated));
+            System.out.println("RESULT: Changes updated");
+        } else {
+            System.out.println("RESULT: No changes");
         }
     }
 }

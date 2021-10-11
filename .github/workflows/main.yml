@@ -57,7 +57,7 @@ jobs:
         run: |-
           datasette publish vercel plenos.db \
             --token $VERCEL_TOKEN \
-            --project congreso-plenos \
+            --project congreso-pleno \
             --install datasette-vega \
             --install datasette-export-notebook \
             --install datasette-copyable \

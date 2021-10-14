@@ -21,16 +21,19 @@ public class Main {
 
         var plenosList = new LinkedList<Pleno>();
 
-        for (var entry : root.entrySet()) {
-            System.out.println(entry.getKey());
-            var year = collect(entry.getValue(), 4);
-            for (var e2 : year.entrySet()) {
-                System.out.println(e2.getKey());
-                var periodo = collect(e2.getValue(), 3);
-                for (var e3 : periodo.entrySet()) {
-                    System.out.println(e3.getKey());
+        for (var periodos : root.entrySet()) {
+            System.out.println(periodos.getKey());
+            var year = collect(periodos.getValue(), 4);
+            for (var anual : year.entrySet()) {
+                System.out.println(anual.getKey());
+                var periodo = collect(anual.getValue(), 3);
+                for (var legislatura : periodo.entrySet()) {
+                    System.out.println(legislatura.getKey());
 
-                    var plenos = collectPleno(entry.getKey(), e2.getKey(), e3.getKey(), e3.getValue());
+                    var plenos = collectPleno(
+                            periodos.getKey(), anual.getKey(),
+                            legislatura.getKey(), legislatura.getValue()
+                    );
                     plenosList.addAll(plenos.values());
                 }
             }

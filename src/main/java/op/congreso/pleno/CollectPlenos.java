@@ -16,7 +16,7 @@ public class CollectPlenos {
     public static void main(String[] args) throws IOException {
         var root = collect("/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/new_asistenciavotacion", 5);
 
-        StringBuilder content = new StringBuilder("periodo_parlamentario,periodo_anual,legislatura,fecha,titulo,url\n");
+        var content = Pleno.csvHeader();
 
         var plenosList = new LinkedList<Pleno>();
 
@@ -43,6 +43,4 @@ public class CollectPlenos {
         Files.writeString(Path.of("plenos.json"),  jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(plenosList));
         Files.writeString(Path.of("plenos.csv"), content.toString());
     }
-
-
 }

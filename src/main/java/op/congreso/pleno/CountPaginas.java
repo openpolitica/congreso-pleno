@@ -23,7 +23,9 @@ public class CountPaginas {
                         .collect(Collectors.toList());
         Files.writeString(Path.of("plenos.json"),
                 jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(plenosWithPaginas));
-
+        StringBuilder content = Pleno.csvHeader();
+        plenosWithPaginas.forEach(pleno -> content.append(pleno.csvEntry()));
+        Files.writeString(Path.of("plenos.csv"), content.toString());
     }
 
 }

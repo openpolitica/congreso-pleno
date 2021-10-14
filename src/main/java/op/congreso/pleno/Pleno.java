@@ -9,6 +9,8 @@ import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 import java.nio.file.Path;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
@@ -105,6 +107,7 @@ record Pleno(
                 if (tr.children().size() == 6) {
                     var fonts = tr.select("font[size=4]");
                     var fecha = fonts.get(0).text();
+                    var date = LocalDate.parse(fecha, DateTimeFormatter.ofPattern("MM/dd/yyyy")).format(DateTimeFormatter.ISO_LOCAL_DATE);
                     var second = fonts.get(2).children().first();
                     assert second != null;
                     var titulo = second.text();
@@ -115,7 +118,7 @@ record Pleno(
                         var fullUrl = BASE_URL + "/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/" + u;
                         root.put(titulo, new Pleno(
                                 pp, pa, l,
-                                fecha, titulo, fullUrl,
+                                date, titulo, fullUrl,
                                 fullUrl.split("/")[9],
                                 0));
                     }

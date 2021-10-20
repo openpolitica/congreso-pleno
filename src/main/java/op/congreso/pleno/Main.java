@@ -46,26 +46,20 @@ public class Main {
                 })
                 .stream().collect(Collectors.toMap(Pleno::id, p -> p));
 
-        if (plenosList.size() > existing.size()) {
-            var updated = plenosList.stream().map(p -> existing.getOrDefault(p.id(), p))
-                    .map(p -> {
-                        if (p.paginas() < 1) {
-                            p.download();
-                            return p.withPaginas();
-                        } else {
-                            return p;
-                        }
-                    })
-                    .sorted(Comparator.comparing(Pleno::id).reversed())
-                    .collect(Collectors.toList());
-            Files.writeString(Path.of("plenos.json"),  jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(updated));
-            System.out.println("RESULT: Changes updated");
-
-            StringBuilder content = Pleno.csvHeader();
-            updated.forEach(pleno -> content.append(pleno.csvEntry()));
-            Files.writeString(Path.of("plenos.csv"), content.toString());
-        } else {
-            System.out.println("RESULT: No changes");
-        }
+        var updated = plenosList.stream().map(p -> existing.getOrDefault(p.id(), p))
+                .map(p -> {
+                    if (p.paginas() < 1) {
+                        p.download();
+                        return p.withPaginas();
+                    } else {
+                        return p;
+                    }
+                })
+                .sorted(Comparator.comparing(Pleno::id).reversed())
+                .collect(Collectors.toList());
+        Files.writeString(Path.of("plenos.json"), jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(updated));
+        StringBuilder content = Pleno.csvHeader();
+        updated.forEach(pleno -> content.append(pleno.csvEntry()));
+        Files.writeString(Path.of("plenos.csv"), content.toString());
     }
 }

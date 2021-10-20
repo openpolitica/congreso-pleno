@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -30,7 +31,7 @@ record Pleno(
         );
     }
      String directory() {
-        return periodoParlamentario + "/" + periodoAnual + "/" + legislatura;
+        return "target/pdf/" + periodoParlamentario + "/" + periodoAnual + "/" + legislatura;
     }
 
     String path() {
@@ -48,7 +49,7 @@ record Pleno(
     }
 
     int countPages() {
-        try (PDDocument doc = PDDocument.load(Path.of("out/"+path()).toFile())){
+        try (PDDocument doc = PDDocument.load(Path.of(path()).toFile())){
             return doc.getNumberOfPages();
         } catch (Exception | NoClassDefFoundError e) {
             System.out.println("ERROR with path: " + path());
@@ -59,8 +60,11 @@ record Pleno(
 
     void download() {
         try {
+            var dir = Path.of(directory());
+            if (!Files.isDirectory(dir)) Files.createDirectories(dir);
+            System.out.println(dir);
             ReadableByteChannel readableByteChannel = Channels.newChannel(new URL(url()).openStream());
-            FileOutputStream fileOutputStream = new FileOutputStream("out/" + path());
+            FileOutputStream fileOutputStream = new FileOutputStream(path());
             fileOutputStream.getChannel().transferFrom(readableByteChannel, 0, Long.MAX_VALUE);
         } catch (IOException e) {
             e.printStackTrace();

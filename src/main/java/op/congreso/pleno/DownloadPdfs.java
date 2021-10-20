@@ -7,24 +7,12 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class DownloadPdfs {
     public static void main(String[] args) throws IOException {
         ObjectMapper jsonMapper = new ObjectMapper();
         var bytes = Files.readAllBytes(Path.of("plenos.json"));
         var plenos = jsonMapper.readValue(bytes,  new TypeReference<List<Pleno>>() {});
-
-        plenos.stream()
-                .map(Pleno::directory)
-                .collect(Collectors.toSet())
-                .forEach(s -> {
-                    try {
-                        Files.createDirectories(Path.of("out/" + s));
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-                });
 
         plenos.stream()
                 .parallel()

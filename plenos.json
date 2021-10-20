@@ -2,6 +2,15 @@
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2021 - 2026",
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
   "legislatura" : "Primera Legislatura Ordinaria",
+  "fecha" : "2021-10-19",
+  "titulo" : "Asistencias y votaciones PROVISIONALES de la sesión del 19-10-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/A6EFC35592A897FB052587740009DF7C/$FILE/Asis_vot_PROVISIONAL-19-10-21CInf.pdf",
+  "filename" : "Asis_vot_PROVISIONAL-19-10-21CInf.pdf",
+  "paginas" : -1
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2021 - 2026",
+  "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
+  "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2021-10-06",
   "titulo" : "Asistencia a la sesión solemne del 06-10-2021",
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/4E2FEBB066F88F9405258767005BF0A6/$FILE/Asis-OFICIAL-06-10-2021.pdf",
@@ -30,10 +39,10 @@
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2021-09-16",
-  "titulo" : "Asistencia a la sesión solemne por el 199° Aniversario del Parlamento Nacional",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/B869E4AEB9EBF0B205258752007B04AE/$FILE/Asis_OFICIAL_Ses_Solemne_16-06-2021.pdf",
-  "filename" : "Asis_OFICIAL_Ses_Solemne_16-06-2021.pdf",
-  "paginas" : 1
+  "titulo" : "Asistencias y votaciones de la Segunda Sesión Ordinaria del 16-09-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/60DF5F886BE1797405258760005E97EA/$FILE/Asis_vot_OFICIAL_16-09-21_II.pdf",
+  "filename" : "Asis_vot_OFICIAL_16-09-21_II.pdf",
+  "paginas" : 14
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2021 - 2026",
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
@@ -48,10 +57,10 @@
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2021-09-16",
-  "titulo" : "Asistencias y votaciones de la Segunda Sesión Ordinaria del 16-09-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/60DF5F886BE1797405258760005E97EA/$FILE/Asis_vot_OFICIAL_16-09-21_II.pdf",
-  "filename" : "Asis_vot_OFICIAL_16-09-21_II.pdf",
-  "paginas" : 14
+  "titulo" : "Asistencia a la sesión solemne por el 199° Aniversario del Parlamento Nacional",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/B869E4AEB9EBF0B205258752007B04AE/$FILE/Asis_OFICIAL_Ses_Solemne_16-06-2021.pdf",
+  "filename" : "Asis_OFICIAL_Ses_Solemne_16-06-2021.pdf",
+  "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2021 - 2026",
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
@@ -66,19 +75,19 @@
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2021-09-02",
-  "titulo" : "Asistencia a la sesión extraordinaria del 02-09-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/DC1D57937F2AB9C60525874F005359D6/$FILE/Asis_OFICIAL_02-09-21.pdf",
-  "filename" : "Asis_OFICIAL_02-09-21.pdf",
-  "paginas" : 1
+  "titulo" : "Asistencias y votaciones de la sesión del 02-09-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/63496A82320A2BF40525874F00537F01/$FILE/Asis_vot_OFICIAL-02-09-21.pdf",
+  "filename" : "Asis_vot_OFICIAL-02-09-21.pdf",
+  "paginas" : 27
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2021 - 2026",
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2021-09-02",
-  "titulo" : "Asistencias y votaciones de la sesión del 02-09-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/63496A82320A2BF40525874F00537F01/$FILE/Asis_vot_OFICIAL-02-09-21.pdf",
-  "filename" : "Asis_vot_OFICIAL-02-09-21.pdf",
-  "paginas" : 27
+  "titulo" : "Asistencia a la sesión extraordinaria del 02-09-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/DC1D57937F2AB9C60525874F005359D6/$FILE/Asis_OFICIAL_02-09-21.pdf",
+  "filename" : "Asis_OFICIAL_02-09-21.pdf",
+  "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2021 - 2026",
   "periodoAnual" : "Período Anual de Sesiones 2021 - 2022",
@@ -169,114 +178,6 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/803B61397F97D9D705258733007603C0/$FILE/Asis-OFICIAL-23-07-21.pdf",
   "filename" : "Asis-OFICIAL-23-07-21.pdf",
   "paginas" : 1
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-16",
-  "titulo" : "Asistencias y votaciones de la sesión del 16-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/E48E068D4242DF3805258728007B6722/$FILE/Asis-vot-OFICIAL-16-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-16-07-21.pdf",
-  "paginas" : 69
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-15",
-  "titulo" : "Asistencias y votaciones de la sesión del 15-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/BAA4B0FE9194511D05258728007B4F0D/$FILE/Asis-vot-OFICIAL-15-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-15-07-21.pdf",
-  "paginas" : 34
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-14",
-  "titulo" : "Asistencias y votaciones de la sesión del 14-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/FCBED6EB2520FD0905258728007B3B99/$FILE/Asis-vot-OFICIAL-14-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-14-07-21.pdf",
-  "paginas" : 40
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-09",
-  "titulo" : "Asistencias y votaciones de la sesión del 09-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/666A3D14F76909D605258728007B0945/$FILE/Asis-vot-OFICIAL-09-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-09-07-21.pdf",
-  "paginas" : 27
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-08",
-  "titulo" : "Asistencias y votaciones de la sesión del 08-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/4C9422978DFBF34D05258726004DC90B/$FILE/Asis-vot-OFICIAL-08-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-08-07-21.pdf",
-  "paginas" : 33
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-07",
-  "titulo" : "Asistencias y votaciones de la sesión del 07-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/5EC2253EDB64202705258719006197E9/$FILE/Asis-vot-OFICIAL-07-07-2021.pdf",
-  "filename" : "Asis-vot-OFICIAL-07-07-2021.pdf",
-  "paginas" : 20
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-02",
-  "titulo" : "Asistencias y votaciones de la sesión del 02-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/CBDFB000CB6B917C0525871B007BB1E9/$FILE/Asis-vot-OFICIAL-02-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-02-07-21.pdf",
-  "paginas" : 36
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-07-01",
-  "titulo" : "Asistencias y votaciones de la sesión del 01-07-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/E527ED7B2B1256A0052587190061AAC6/$FILE/Asis-vot-OFICIAL-01-07-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-01-07-21.pdf",
-  "paginas" : 42
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-06-30",
-  "titulo" : "Asistencias y votaciones de la sesión del 30-06-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/A82912E5033197F3052587190061DE97/$FILE/Asis-vot-OFICIAL-30-06-2021.pdf",
-  "filename" : "Asis-vot-OFICIAL-30-06-2021.pdf",
-  "paginas" : 39
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-06-18",
-  "titulo" : "Asistencias y votaciones de la sesión del 18-06-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/19A3D8C6D7D7309305258719005C3CCA/$FILE/Asis-vot-OFICIAL-18-06-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-18-06-21.pdf",
-  "paginas" : 15
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-06-17",
-  "titulo" : "Asistencias y votaciones de la sesión del 17-06-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8AC610CFB7367C470525870B00737074/$FILE/Asis-vot-OFICIAL-17-06-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-17-06-21.pdf",
-  "paginas" : 41
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período de Sesiones 2020 - 2021",
-  "legislatura" : "Cuarta Legislatura Ordinaria",
-  "fecha" : "2021-06-16",
-  "titulo" : "Asistencias y votaciones de la sesión del 16-06-2021",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/1E65B8AD88C46AB80525870B0069E4A8/$FILE/Asis-vot-OFICIAL-16-06-21.pdf",
-  "filename" : "Asis-vot-OFICIAL-16-06-21.pdf",
-  "paginas" : 42
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período de Sesiones 2020 - 2021",
@@ -912,19 +813,19 @@
   "periodoAnual" : "Período de Sesiones 2020 - 2021",
   "legislatura" : "Segunda Legislatura Ordinaria",
   "fecha" : "2020-09-17",
-  "titulo" : "Asistencia a la sesión solemne del 17-09-2020",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/AB28CFE8089A603E05258603006B4ADE/$FILE/1-Asis-SesSolemne-OFICIAL-17-09-20.pdf",
-  "filename" : "1-Asis-SesSolemne-OFICIAL-17-09-20.pdf",
-  "paginas" : 1
+  "titulo" : "Asistencia y votaciones de la sesión del 17-09-2020",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/56A2B6067D4734CD05258603006B6E0C/$FILE/Asis-vot-OFICIAL-17-09-20.pdf",
+  "filename" : "Asis-vot-OFICIAL-17-09-20.pdf",
+  "paginas" : 4
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período de Sesiones 2020 - 2021",
   "legislatura" : "Segunda Legislatura Ordinaria",
   "fecha" : "2020-09-17",
-  "titulo" : "Asistencia y votaciones de la sesión del 17-09-2020",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/56A2B6067D4734CD05258603006B6E0C/$FILE/Asis-vot-OFICIAL-17-09-20.pdf",
-  "filename" : "Asis-vot-OFICIAL-17-09-20.pdf",
-  "paginas" : 4
+  "titulo" : "Asistencia a la sesión solemne del 17-09-2020",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/AB28CFE8089A603E05258603006B4ADE/$FILE/1-Asis-SesSolemne-OFICIAL-17-09-20.pdf",
+  "filename" : "1-Asis-SesSolemne-OFICIAL-17-09-20.pdf",
+  "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período de Sesiones 2020 - 2021",
@@ -1258,6 +1159,114 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/0B55C5880127D0050525867A007C6934/$FILE/Asis-vot-OFICIAL-21-01-21.pdf",
   "filename" : "Asis-vot-OFICIAL-21-01-21.pdf",
   "paginas" : 3
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-16",
+  "titulo" : "Asistencias y votaciones de la sesión del 16-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/E48E068D4242DF3805258728007B6722/$FILE/Asis-vot-OFICIAL-16-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-16-07-21.pdf",
+  "paginas" : 69
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-15",
+  "titulo" : "Asistencias y votaciones de la sesión del 15-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/BAA4B0FE9194511D05258728007B4F0D/$FILE/Asis-vot-OFICIAL-15-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-15-07-21.pdf",
+  "paginas" : 34
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-14",
+  "titulo" : "Asistencias y votaciones de la sesión del 14-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/FCBED6EB2520FD0905258728007B3B99/$FILE/Asis-vot-OFICIAL-14-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-14-07-21.pdf",
+  "paginas" : 40
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-09",
+  "titulo" : "Asistencias y votaciones de la sesión del 09-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/666A3D14F76909D605258728007B0945/$FILE/Asis-vot-OFICIAL-09-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-09-07-21.pdf",
+  "paginas" : 27
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-08",
+  "titulo" : "Asistencias y votaciones de la sesión del 08-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/4C9422978DFBF34D05258726004DC90B/$FILE/Asis-vot-OFICIAL-08-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-08-07-21.pdf",
+  "paginas" : 33
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-07",
+  "titulo" : "Asistencias y votaciones de la sesión del 07-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/5EC2253EDB64202705258719006197E9/$FILE/Asis-vot-OFICIAL-07-07-2021.pdf",
+  "filename" : "Asis-vot-OFICIAL-07-07-2021.pdf",
+  "paginas" : 20
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-02",
+  "titulo" : "Asistencias y votaciones de la sesión del 02-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/CBDFB000CB6B917C0525871B007BB1E9/$FILE/Asis-vot-OFICIAL-02-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-02-07-21.pdf",
+  "paginas" : 36
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-07-01",
+  "titulo" : "Asistencias y votaciones de la sesión del 01-07-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/E527ED7B2B1256A0052587190061AAC6/$FILE/Asis-vot-OFICIAL-01-07-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-01-07-21.pdf",
+  "paginas" : 42
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-06-30",
+  "titulo" : "Asistencias y votaciones de la sesión del 30-06-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/A82912E5033197F3052587190061DE97/$FILE/Asis-vot-OFICIAL-30-06-2021.pdf",
+  "filename" : "Asis-vot-OFICIAL-30-06-2021.pdf",
+  "paginas" : 39
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-06-18",
+  "titulo" : "Asistencias y votaciones de la sesión del 18-06-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/19A3D8C6D7D7309305258719005C3CCA/$FILE/Asis-vot-OFICIAL-18-06-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-18-06-21.pdf",
+  "paginas" : 15
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-06-17",
+  "titulo" : "Asistencias y votaciones de la sesión del 17-06-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8AC610CFB7367C470525870B00737074/$FILE/Asis-vot-OFICIAL-17-06-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-17-06-21.pdf",
+  "paginas" : 41
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período de Sesiones 2020 - 2021",
+  "legislatura" : "Cuarta Legislatura Ordinaria",
+  "fecha" : "2021-06-16",
+  "titulo" : "Asistencias y votaciones de la sesión del 16-06-2021",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/1E65B8AD88C46AB80525870B0069E4A8/$FILE/Asis-vot-OFICIAL-16-06-21.pdf",
+  "filename" : "Asis-vot-OFICIAL-16-06-21.pdf",
+  "paginas" : 42
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2019 - 2020",
@@ -1857,19 +1866,19 @@
   "periodoAnual" : "Período Anual de Sesiones 2018 - 2019",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2018-09-06",
-  "titulo" : "Asistencia de la Sesión Extraordinaria del Pleno del 6-09-2018",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/5E707322FED1F034052583000070D2D1/$FILE/asistencia-6-9-18.pdf",
-  "filename" : "asistencia-6-9-18.pdf",
-  "paginas" : 1
+  "titulo" : "Asistencias y votaciones de la sesión del 6-09-2018",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/72FF5D79FCD93DB9052583070076A1A3/$FILE/OFICIAL-Asist-y-vot-6-9-18.PDF",
+  "filename" : "OFICIAL-Asist-y-vot-6-9-18.PDF",
+  "paginas" : 12
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2018 - 2019",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2018-09-06",
-  "titulo" : "Asistencias y votaciones de la sesión del 6-09-2018",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/72FF5D79FCD93DB9052583070076A1A3/$FILE/OFICIAL-Asist-y-vot-6-9-18.PDF",
-  "filename" : "OFICIAL-Asist-y-vot-6-9-18.PDF",
-  "paginas" : 12
+  "titulo" : "Asistencia de la Sesión Extraordinaria del Pleno del 6-09-2018",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/5E707322FED1F034052583000070D2D1/$FILE/asistencia-6-9-18.pdf",
+  "filename" : "asistencia-6-9-18.pdf",
+  "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2018 - 2019",
@@ -1924,15 +1933,6 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/4FA5240E53D0B3DE052582EF0054ECCE/$FILE/Asistencia-27-07-18.pdf",
   "filename" : "Asistencia-27-07-18.pdf",
   "paginas" : 1
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
-  "periodoAnual" : "Período Anual de Sesiones 2017 - 2018",
-  "legislatura" : "Segunda Legislatura Extraordinaria",
-  "fecha" : "2018-07-23",
-  "titulo" : "Asistencias y votaciones de la sesión del 23-07-2018",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/5F1642DC8DCCB7F9052582D6006E6FF7/$FILE/Asis-vot-OFICIAL-23-07-18.pdf",
-  "filename" : "Asis-vot-OFICIAL-23-07-18.pdf",
-  "paginas" : 4
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2017 - 2018",
@@ -2116,12 +2116,12 @@
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2017 - 2018",
-  "legislatura" : "Primera Legislatura Extraordinaria",
-  "fecha" : "2018-07-20",
-  "titulo" : "Asistencias y votación a la sesión del 20-07-2018",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/B77A2D54C02285CD052582D3006C0DFA/$FILE/Asis-Vot-OFICIAL-20-07-18.pdf",
-  "filename" : "Asis-Vot-OFICIAL-20-07-18.pdf",
-  "paginas" : 3
+  "legislatura" : "Segunda Legislatura Extraordinaria",
+  "fecha" : "2018-07-23",
+  "titulo" : "Asistencias y votaciones de la sesión del 23-07-2018",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/5F1642DC8DCCB7F9052582D6006E6FF7/$FILE/Asis-vot-OFICIAL-23-07-18.pdf",
+  "filename" : "Asis-vot-OFICIAL-23-07-18.pdf",
+  "paginas" : 4
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2017 - 2018",
@@ -2383,6 +2383,15 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8285F6273F4E5E1D05258171007AC81E/$FILE/28-07-17-As-Oficial.pdf",
   "filename" : "28-07-17-As-Oficial.pdf",
   "paginas" : 2
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
+  "periodoAnual" : "Período Anual de Sesiones 2017 - 2018",
+  "legislatura" : "Primera Legislatura Extraordinaria",
+  "fecha" : "2018-07-20",
+  "titulo" : "Asistencias y votación a la sesión del 20-07-2018",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/B77A2D54C02285CD052582D3006C0DFA/$FILE/Asis-Vot-OFICIAL-20-07-18.pdf",
+  "filename" : "Asis-Vot-OFICIAL-20-07-18.pdf",
+  "paginas" : 3
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2016 - 2021",
   "periodoAnual" : "Período Anual de Sesiones 2016 - 2017",
@@ -3108,8 +3117,8 @@
   "periodoAnual" : "Período Anual de Sesiones 2015 - 2016",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2015-10-14",
-  "titulo" : "ASISTENCIA DE LA SESIÓN DEL PLENO DEL 14 OCT 2015",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/735718E8EDFF5A3D05257EF5007A7EB0/$FILE/As-14-oct-15-OFICIAL.pdf",
+  "titulo" : "Asistencia a la sesión del 14 octubre 2015",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/CE8515A5614D53DC05257F31004F452E/$FILE/As-14-oct-15-OFICIAL.pdf",
   "filename" : "As-14-oct-15-OFICIAL.pdf",
   "paginas" : 2
 }, {
@@ -3117,8 +3126,8 @@
   "periodoAnual" : "Período Anual de Sesiones 2015 - 2016",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2015-10-14",
-  "titulo" : "Asistencia a la sesión del 14 octubre 2015",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/CE8515A5614D53DC05257F31004F452E/$FILE/As-14-oct-15-OFICIAL.pdf",
+  "titulo" : "ASISTENCIA DE LA SESIÓN DEL PLENO DEL 14 OCT 2015",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/735718E8EDFF5A3D05257EF5007A7EB0/$FILE/As-14-oct-15-OFICIAL.pdf",
   "filename" : "As-14-oct-15-OFICIAL.pdf",
   "paginas" : 2
 }, {
@@ -3274,15 +3283,6 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/1CD985C01522B69005257E8E0075783D/$FILE/26-07-2015-OFICIAL-ASITENCIA.pdf",
   "filename" : "26-07-2015-OFICIAL-ASITENCIA.pdf",
   "paginas" : 1
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
-  "periodoAnual" : "Período Anual de Sesiones 2014 - 2015",
-  "legislatura" : "Segunda Legislatura Extraordinaria",
-  "fecha" : "2015-06-18",
-  "titulo" : "Asistencias y votaciones de la sesión del Pleno del 18 de junio de 2015",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/BF744464CD7BA14605257E7500718849/$FILE/Vot-18-jun-2015-oficial-1.pdf",
-  "filename" : "Vot-18-jun-2015-oficial-1.pdf",
-  "paginas" : 31
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2014 - 2015",
@@ -3484,12 +3484,12 @@
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2014 - 2015",
-  "legislatura" : "Primera Legislatura Extraordinaria",
-  "fecha" : "2015-01-26",
-  "titulo" : "Asistencias y Votaciones de la sesión del Pleno del 26 de enero 2015",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/552FD3D5E25D0C0805257DDA006407D2/$FILE/as-vot-26-ene-2015-oficial.pdf",
-  "filename" : "as-vot-26-ene-2015-oficial.pdf",
-  "paginas" : 8
+  "legislatura" : "Segunda Legislatura Extraordinaria",
+  "fecha" : "2015-06-18",
+  "titulo" : "Asistencias y votaciones de la sesión del Pleno del 18 de junio de 2015",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/BF744464CD7BA14605257E7500718849/$FILE/Vot-18-jun-2015-oficial-1.pdf",
+  "filename" : "Vot-18-jun-2015-oficial-1.pdf",
+  "paginas" : 31
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2014 - 2015",
@@ -3751,6 +3751,15 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/9AE7FC12220E014305257D3A005B048B/$FILE/ASIST-OFICIAL-27-jul-2014.pdf",
   "filename" : "ASIST-OFICIAL-27-jul-2014.pdf",
   "paginas" : 1
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
+  "periodoAnual" : "Período Anual de Sesiones 2014 - 2015",
+  "legislatura" : "Primera Legislatura Extraordinaria",
+  "fecha" : "2015-01-26",
+  "titulo" : "Asistencias y Votaciones de la sesión del Pleno del 26 de enero 2015",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/552FD3D5E25D0C0805257DDA006407D2/$FILE/as-vot-26-ene-2015-oficial.pdf",
+  "filename" : "as-vot-26-ene-2015-oficial.pdf",
+  "paginas" : 8
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2013 - 2014",
@@ -4465,15 +4474,6 @@
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2012 - 2013",
-  "legislatura" : "Primera Legislatura Extraordinaria",
-  "fecha" : "2013-07-24",
-  "titulo" : "Asistencia y votación a la sesión del Pleno del 24 de julio de 2013",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/B4D640ED49998F9605257BB30073AF55/$FILE/Asistencia-y-votacion-24-julio-2013.pdf",
-  "filename" : "Asistencia-y-votacion-24-julio-2013.pdf",
-  "paginas" : 7
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
-  "periodoAnual" : "Período Anual de Sesiones 2012 - 2013",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2012-12-13",
   "titulo" : "Asistencia y votación a la sesión del Pleno del 13 de diciembre de 2012",
@@ -4761,6 +4761,15 @@
   "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
+  "periodoAnual" : "Período Anual de Sesiones 2012 - 2013",
+  "legislatura" : "Primera Legislatura Extraordinaria",
+  "fecha" : "2013-07-24",
+  "titulo" : "Asistencia y votación a la sesión del Pleno del 24 de julio de 2013",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/B4D640ED49998F9605257BB30073AF55/$FILE/Asistencia-y-votacion-24-julio-2013.pdf",
+  "filename" : "Asistencia-y-votacion-24-julio-2013.pdf",
+  "paginas" : 7
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2011 - 2012",
   "legislatura" : "Segunda Legislatura Ordinaria",
   "fecha" : "2012-06-14",
@@ -4836,19 +4845,19 @@
   "periodoAnual" : "Período Anual de Sesiones 2011 - 2012",
   "legislatura" : "Segunda Legislatura Ordinaria",
   "fecha" : "2012-05-03",
-  "titulo" : "Asistencia a la Sesión del Pleno del 3 de mayo de 2012",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/2782D1AA4585D897052579F3004FDBE8/$FILE/ASISTENCIA_3_DE_MAYO-2012.PDF",
-  "filename" : "ASISTENCIA_3_DE_MAYO-2012.PDF",
-  "paginas" : 1
+  "titulo" : "Asistencia y Votación a la sesión del pleno del 3 de mayo de 2012",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8DF51868E15F70A2052579FB0075F0E3/$FILE/ASISTENCIA-Y-VOTACION-DEL-3-DE-MAYO-DE-2012.pdf",
+  "filename" : "ASISTENCIA-Y-VOTACION-DEL-3-DE-MAYO-DE-2012.pdf",
+  "paginas" : 18
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2011 - 2012",
   "legislatura" : "Segunda Legislatura Ordinaria",
   "fecha" : "2012-05-03",
-  "titulo" : "Asistencia y Votación a la sesión del pleno del 3 de mayo de 2012",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8DF51868E15F70A2052579FB0075F0E3/$FILE/ASISTENCIA-Y-VOTACION-DEL-3-DE-MAYO-DE-2012.pdf",
-  "filename" : "ASISTENCIA-Y-VOTACION-DEL-3-DE-MAYO-DE-2012.pdf",
-  "paginas" : 18
+  "titulo" : "Asistencia a la Sesión del Pleno del 3 de mayo de 2012",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/2782D1AA4585D897052579F3004FDBE8/$FILE/ASISTENCIA_3_DE_MAYO-2012.PDF",
+  "filename" : "ASISTENCIA_3_DE_MAYO-2012.PDF",
+  "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2011 - 2016",
   "periodoAnual" : "Período Anual de Sesiones 2011 - 2012",
@@ -5185,24 +5194,6 @@
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
-  "legislatura" : "Segunda Legislatura Extraordinaria",
-  "fecha" : "2011-07-07",
-  "titulo" : "Asistencias y votaciones de la sesión del 07-07-2011",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/BB4316D8958BEBC3052584B0005FE221/$FILE/Asis-vot-07-07-2011-CF.pdf",
-  "filename" : "Asis-vot-07-07-2011-CF.pdf",
-  "paginas" : 10
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
-  "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
-  "legislatura" : "Segunda Legislatura Extraordinaria",
-  "fecha" : "2011-07-06",
-  "titulo" : "Asistencias y votaciones de la sesión del 06-07-2011",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/79D76F890C030D7A052584B0005FAC24/$FILE/Asis-vot-06-07-2011-CF.pdf",
-  "filename" : "Asis-vot-06-07-2011-CF.pdf",
-  "paginas" : 8
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
-  "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
   "legislatura" : "Segunda Legislatura Ordinaria",
   "fecha" : "2011-06-16",
   "titulo" : "Asistencias y votaciones de la sesión del 16-06-2011",
@@ -5410,21 +5401,21 @@
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
-  "legislatura" : "Primera Legislatura Extraordinaria",
-  "fecha" : "2011-01-26",
-  "titulo" : "Asistencias y votaciones de la sesión del 26-01-2011",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/E4B497C48BBA4BF3052584B0005DCEEF/$FILE/Asis-vot-26-01-2011-CF.pdf",
-  "filename" : "Asis-vot-26-01-2011-CF.pdf",
-  "paginas" : 4
+  "legislatura" : "Segunda Legislatura Extraordinaria",
+  "fecha" : "2011-07-07",
+  "titulo" : "Asistencias y votaciones de la sesión del 07-07-2011",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/BB4316D8958BEBC3052584B0005FE221/$FILE/Asis-vot-07-07-2011-CF.pdf",
+  "filename" : "Asis-vot-07-07-2011-CF.pdf",
+  "paginas" : 10
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
-  "legislatura" : "Primera Legislatura Extraordinaria",
-  "fecha" : "2010-12-30",
-  "titulo" : "Asistencias y votaciones de la sesión del 30-12-2010",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/115AE933F4BA926F052584B0005DAFAE/$FILE/Asis-vot-30-12-2010-CF.pdf",
-  "filename" : "Asis-vot-30-12-2010-CF.pdf",
-  "paginas" : 4
+  "legislatura" : "Segunda Legislatura Extraordinaria",
+  "fecha" : "2011-07-06",
+  "titulo" : "Asistencias y votaciones de la sesión del 06-07-2011",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/79D76F890C030D7A052584B0005FAC24/$FILE/Asis-vot-06-07-2011-CF.pdf",
+  "filename" : "Asis-vot-06-07-2011-CF.pdf",
+  "paginas" : 8
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
@@ -5686,6 +5677,24 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/6F7D864FC97A1D3F052584B0005990C1/$FILE/Asis-27-07-2010-CF.pdf",
   "filename" : "Asis-27-07-2010-CF.pdf",
   "paginas" : 1
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
+  "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
+  "legislatura" : "Primera Legislatura Extraordinaria",
+  "fecha" : "2011-01-26",
+  "titulo" : "Asistencias y votaciones de la sesión del 26-01-2011",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/E4B497C48BBA4BF3052584B0005DCEEF/$FILE/Asis-vot-26-01-2011-CF.pdf",
+  "filename" : "Asis-vot-26-01-2011-CF.pdf",
+  "paginas" : 4
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
+  "periodoAnual" : "Período Anual de Sesiones 2010 - 2011",
+  "legislatura" : "Primera Legislatura Extraordinaria",
+  "fecha" : "2010-12-30",
+  "titulo" : "Asistencias y votaciones de la sesión del 30-12-2010",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/115AE933F4BA926F052584B0005DAFAE/$FILE/Asis-vot-30-12-2010-CF.pdf",
+  "filename" : "Asis-vot-30-12-2010-CF.pdf",
+  "paginas" : 4
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2009 - 2010",
@@ -6445,15 +6454,6 @@
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2008 - 2009",
-  "legislatura" : "Primera Legislatura Extraordinaria",
-  "fecha" : "2009-02-12",
-  "titulo" : "Asistencias y votaciones de la sesión del 12-02-2009",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/AD1075274EA5484A052584AF0062E6CB/$FILE/Asis-vot-12-02-2009-CF.pdf",
-  "filename" : "Asis-vot-12-02-2009-CF.pdf",
-  "paginas" : 9
-}, {
-  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
-  "periodoAnual" : "Período Anual de Sesiones 2008 - 2009",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2009-01-15",
   "titulo" : "Asistencias y votaciones de la sesión del 15-01-2009",
@@ -6712,6 +6712,15 @@
   "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/152F116737B65A2B052584AF005F03AB/$FILE/Asis-28-07-2008-Confirmas.pdf",
   "filename" : "Asis-28-07-2008-Confirmas.pdf",
   "paginas" : 2
+}, {
+  "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
+  "periodoAnual" : "Período Anual de Sesiones 2008 - 2009",
+  "legislatura" : "Primera Legislatura Extraordinaria",
+  "fecha" : "2009-02-12",
+  "titulo" : "Asistencias y votaciones de la sesión del 12-02-2009",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/AD1075274EA5484A052584AF0062E6CB/$FILE/Asis-vot-12-02-2009-CF.pdf",
+  "filename" : "Asis-vot-12-02-2009-CF.pdf",
+  "paginas" : 9
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2007 - 2008",
@@ -7671,19 +7680,19 @@
   "periodoAnual" : "Período Anual de Sesiones 2006 - 2007",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2006-09-06",
-  "titulo" : "Asistencia de la sesión del 06-09-2006",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8F545FB521AE540A052584AC007414D1/$FILE/Asis-06-09-2006-CF.pdf",
-  "filename" : "Asis-06-09-2006-CF.pdf",
-  "paginas" : 1
+  "titulo" : "Asistencias y votación de la sesión del 06-09-2006",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/06C6FEBAE4107C5A052584AC00743284/$FILE/Asis-vot-06-09-2006-CF.pdf",
+  "filename" : "Asis-vot-06-09-2006-CF.pdf",
+  "paginas" : 3
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2006 - 2007",
   "legislatura" : "Primera Legislatura Ordinaria",
   "fecha" : "2006-09-06",
-  "titulo" : "Asistencias y votación de la sesión del 06-09-2006",
-  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/06C6FEBAE4107C5A052584AC00743284/$FILE/Asis-vot-06-09-2006-CF.pdf",
-  "filename" : "Asis-vot-06-09-2006-CF.pdf",
-  "paginas" : 3
+  "titulo" : "Asistencia de la sesión del 06-09-2006",
+  "url" : "https://www2.congreso.gob.pe/Sicr/RelatAgenda/PlenoComiPerm20112016.nsf/Apleno/8F545FB521AE540A052584AC007414D1/$FILE/Asis-06-09-2006-CF.pdf",
+  "filename" : "Asis-06-09-2006-CF.pdf",
+  "paginas" : 1
 }, {
   "periodoParlamentario" : "Congreso de la República - Periodo Parlamentario 2006 - 2011",
   "periodoAnual" : "Período Anual de Sesiones 2006 - 2007",
